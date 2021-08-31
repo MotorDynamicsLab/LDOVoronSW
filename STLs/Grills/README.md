@@ -1,0 +1,2 @@
+# 1.2mm Grill Rear Left
+This part replaces the left rear grill part from the official [Voron repo](https://github.com/VoronDesign/Voron-Switchwire/tree/master/STL/Grills). The only difference is this part adapts to 1.2mm AC inlets instead of 1.0mm for a more snug fit.
