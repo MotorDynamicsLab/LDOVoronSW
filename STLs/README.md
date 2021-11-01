@@ -9,3 +9,6 @@ Use this to mount the toolhead breakout PCB. Use 4 M2x10 self-tapping screws fix
 
 ## Heatbed Terminal Cover
 An alternative to the standard heatbed cover, this cover allows for bed wires to extend out backwards as well as sideways.
+
+## LED PCB Mount
+This part is used to mount the LED splitter PCB to the side panel. Use VHB tape at the back. 
